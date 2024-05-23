@@ -93,6 +93,6 @@ If everything is set up _correctly_, you should see your new app running in your
 * React-navigation
 * Native-stack
 ## Contact
-Mohammad Jamal Malash
-+972568961396
-mohammadmalashcarrer@gmail.com
+Mohammad Jamal Malash  
++972568961396  
+mohammadmalashcareer@gmail.com
